@@ -14,7 +14,7 @@ const path = require('path');
 const app = express();
 
 //defining a port where the server will run 
-const PORT = 8000;
+const PORT = 3001;
 
 
 
